@@ -4,15 +4,11 @@ This repository contains the implementation of parts of a compiler, covering **l
 
 ☕ The implementation was done using the **Java** programming language.
 
----
-
 ## ⚙️ Features
 
 - 🔤 **Lexical analysis**  
 - 📖 **Syntactic analysis**  
 - 🗂️ **Symbol table construction**  
-
----
 
 ## 🛠️ Technologies Used
 
