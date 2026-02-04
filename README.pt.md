@@ -13,4 +13,3 @@ Este repositório contém a implementação de partes de um compilador, consider
 - Java ☕
 - Estruturas de dados 🗃️
 - Conceitos de compiladores 📚
-
